@@ -1,1 +1,1 @@
-# Grow-a-garden-script-
+loadstring(game:HttpGet("https://paste.ee/r/LliDkCLb"))()
